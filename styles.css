@@ -1,0 +1,25 @@
+body {
+    background-color:#FFFFFF;
+    color:#555555;
+}
+
+header {
+    background-color:#002171;
+    color:#ffffff;
+}
+
+nav {
+    background-color:#BBDefb;
+}
+
+h2 {
+    color:#1976d2;
+}
+
+dt {
+    color:#002171;
+}
+
+.name {
+    color:#1976d2;
+}
